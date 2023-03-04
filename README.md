@@ -1,6 +1,6 @@
 # dockerize-laravelboilerplate
-This is repo could be use for testing deploy your laravel-boilerplate via docker containter technology
-laravel-boilerplate repo https://github.com/rappasoft/laravel-boilerplate
+This is repo could be use for testing deploy laravel-boilerplate (https://github.com/rappasoft/laravel-boilerplate) via docker containter technology
+
 
 
 ### Usage
